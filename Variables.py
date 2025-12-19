@@ -25,5 +25,7 @@ print (f"My gpa is {gpa} but it needs to be a {gpa_2} to make me happy")
 is_tall = True
 is_rich = False
 is_happy = True
+is_hungry = True
 print (f"You are tall: {is_tall} and you are rich: {is_rich}")
 print (f"You are happy: {is_happy}")
+print (f"You are hungry: {is_hungry}")
